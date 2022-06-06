@@ -3,15 +3,15 @@ app:
   baseUrl: http://localhost:3000
 
 organization:
-  name: My Company
+  name: Saks Digital
 
 backend:
   # Used for enabling authentication, secret is shared by all backend plugins
   # See https://backstage.io/docs/tutorials/backend-to-backend-auth for
   # information on the format
-  # auth:
-  #   keys:
-  #     - secret: ${BACKEND_SECRET}
+   auth:
+     keys:
+       - secret: lEdossopmElA2hQhsajwebEu/g2LC30c
   baseUrl: http://localhost:7007
   listen:
     port: 7007
