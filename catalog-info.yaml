@@ -9,6 +9,6 @@ metadata:
     circleci.com/project-slug: github/ShikhaVashishtha/TestCircleCI
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: website
+  type: service
   owner: user:ShikhaVashishtha
   lifecycle: experimental
